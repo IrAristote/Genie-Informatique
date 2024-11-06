@@ -1,2 +1,2 @@
 # Genie-Informatique
-This students repos for learni,g Github basics
+This students repos for learning Github basics
